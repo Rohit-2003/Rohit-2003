@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I'm Rohit Singavarapu
+## Studying Computer Science Engineering at Amrita University, batch of 2025
 
 <!--
 **Rohit-2003/Rohit-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
